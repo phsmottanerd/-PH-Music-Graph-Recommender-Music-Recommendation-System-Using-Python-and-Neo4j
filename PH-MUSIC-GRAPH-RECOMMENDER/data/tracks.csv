@@ -1,0 +1,13 @@
+trackId,title,year,durationSeconds,artistId,genreIds
+track-001,Neon Skies,2022,218,artist-001,genre-001|genre-002
+track-002,After the Rain,2021,204,artist-002,genre-003|genre-005
+track-003,Midnight Drive,2023,232,artist-003,genre-002|genre-004
+track-004,Ocean Lights,2020,245,artist-004,genre-001|genre-005
+track-005,Satellite Hearts,2024,211,artist-005,genre-003|genre-004
+track-006,City Echoes,2022,226,artist-001,genre-001|genre-004
+track-007,Golden Hourglass,2021,199,artist-002,genre-003
+track-008,Digital Horizon,2023,240,artist-003,genre-002
+track-009,Quiet Roads,2019,215,artist-004,genre-005
+track-010,Gravity Games,2024,223,artist-005,genre-003|genre-002
+track-011,Static Bloom,2020,207,artist-001,genre-001
+track-012,Soft Focus,2022,230,artist-002,genre-005|genre-003

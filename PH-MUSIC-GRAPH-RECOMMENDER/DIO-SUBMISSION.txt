@@ -1,0 +1,7 @@
+Projeto: PH-MUSIC-GRAPH-RECOMMENDER
+
+Desenvolvi um sistema educacional de recomendação de músicas utilizando Neo4j, Cypher e Python. O projeto modela usuários, músicas, artistas e gêneros como um grafo de conhecimento e utiliza os relacionamentos entre essas entidades para gerar recomendações personalizadas e explicáveis.
+
+O repositório contém o modelo do grafo, dataset fictício em CSV, scripts Cypher para criação e carga dos dados, consultas de negócio, aplicação Python para consultar recomendações, documentação de instalação e seção de troubleshooting.
+
+Tecnologias: Neo4j, Graph Database, Cypher, Python e Git.
